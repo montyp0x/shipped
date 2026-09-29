@@ -8,7 +8,7 @@ Plays a sting every time your agent commits, pushes, or opens a pull request.
 > shipped adds a user-level Cursor hook in `~/.cursor/hooks.json`. Other hooks in that file are left in place.
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/ramil-13/shipped/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/montyp0x/shipped/main/install.sh | bash
 ```
 
 Cursor reloads `hooks.json` on save. If it stays quiet, restart Cursor.
@@ -16,7 +16,7 @@ Cursor reloads `hooks.json` on save. If it stays quiet, restart Cursor.
 ## Uninstall
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/ramil-13/shipped/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/montyp0x/shipped/main/uninstall.sh | bash
 ```
 
 ## What it listens for

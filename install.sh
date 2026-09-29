@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="https://raw.githubusercontent.com/ramil-13/shipped/main"
+REPO="https://raw.githubusercontent.com/montyp0x/shipped/main"
 INSTALL_DIR="$HOME/.local/share/shipped"
 HOOK_DIR="$HOME/.cursor/hooks"
 HOOK_FILE="$HOOK_DIR/shipped.sh"
